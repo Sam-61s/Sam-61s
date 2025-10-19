@@ -93,24 +93,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-61s&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" alt="Sam's streak"/>
 </div>
 
----
 
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake.svg?v=1">
-  </picture>
-</div>
-
-
-
----
-
-<div align="center">
-  
-### 💙 Show some love by starring ⭐ some repositories!
-
-</div>
