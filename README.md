@@ -1,6 +1,6 @@
-# Hi 👋, I'm Samail Ahmad
+# Hi 👋, I'm Sam
 
-![Profile Views](https://komarev.com/ghpvc/?username=saim-61s&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Sam-61s&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
@@ -84,13 +84,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saim-61s&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Samail Ahmad github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saim-61s&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Sam's github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim-61s&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-61s&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saim-61s&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" alt="Samail's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-61s&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" alt="Sam's streak"/>
 </div>
 
 ---
@@ -99,9 +99,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saim-61s/saim-61s/output/github-contribution-grid-snake-dark.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saim-61s/saim-61s/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saim-61s/saim-61s/output/github-contribution-grid-snake.svg?v=1">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sam-61s/Sam-61s/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
