@@ -89,8 +89,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-61s&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-61s&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" alt="Sam's streak"/>
-</div>
+
 
 
