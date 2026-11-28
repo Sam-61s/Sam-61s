@@ -23,7 +23,7 @@
 
 # 🤝 Open Source Contributions
 
-> I actively contribute to open-source projects across TypeScript ecosystems and backend tooling, focusing on developer experience, architectural improvements, and documentation clarity.
+> I actively contribute to open-source project across TypeScript ecosystems and backend tooling, focusing on developer experience, architectural improvements, and documentation clarity.
 
 ## 🏢 Ecosystem: JSON Schema
 
